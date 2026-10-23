@@ -58,9 +58,9 @@ Plus the **10 kΩ pull-up between GP2 (pin 4) and 3V3 OUT (pin 36)**.
                  └──────────────────┘
 ```
 
-> ⚠️ **Wire by pin number, not by colour.** Colours differ between cables; check yours with a multimeter (continuity) before powering up.
+> **WARNING Wire by pin number, not by colour.** Colours differ between cables; check yours with a multimeter (continuity) before powering up.
 >
-> ⚠️ **Never connect VCC or the pull-up to 5 V / VBUS (pin 40).** The controller and the Pico's GPIOs are 3.3 V.
+> **Never connect VCC or the pull-up to 5 V / VBUS (pin 40).** The controller and the Pico's GPIOs are 3.3 V.
 >
 > The DATA line is open-drain and **needs the 10 kΩ pull-up**. Without it the controller is not detected.
 
