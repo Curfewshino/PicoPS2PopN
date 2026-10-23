@@ -29,6 +29,8 @@ The PS2 plug has 9 pins in three groups of three, numbered 1–9 from one end:
 
 The Pop'n controller cable **does not use the standard PS2 colours**: red and black are *not* power and ground. These colours were measured on a KONAMI Pop'n cable:
 
+<img src="image/Schematics.svg" alt="Wiring schematic" width="800">
+
 | PS2 pin | Signal | Pop'n wire | Pico GPIO | Pico pin |
 |:-:|---|---|:-:|:-:|
 | 1 | DATA | **orange** | **GP2** | 4 |
