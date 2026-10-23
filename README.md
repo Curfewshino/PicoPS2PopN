@@ -231,3 +231,13 @@ src/ps2_controller.c/.h   bit-banged PS2 controller driver
 src/usb_descriptors.c/.h  USB device / HID descriptors and names
 src/tusb_config.h         TinyUSB configuration
 ```
+
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
+
+[![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
+
+[cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
+[cc-by-nc-image]: https://licensebuttons.net/l/by-nc/4.0/88x31.png
+[cc-by-nc-shield]: https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg
